@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Anand2169/Anand2169/blob/master/github-header-image.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Anand Yanamala</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
