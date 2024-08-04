@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fleviarista%2Fgithub-profile-header-generator&psig=AOvVaw1tJ9exJHQLsdwb6i2W-R8m&ust=1722849297271000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCqifn_2ocDFQAAAAAdAAAAABAx)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Anand Yanamala</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
